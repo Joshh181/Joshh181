@@ -120,19 +120,7 @@ motto: "Turning ideas into real-world solutions"
 
 ## 🚀 &nbsp;Featured Projects
 
-<div align="center">
 
-<a href="https://github.com/Joshh181/Nexa">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Joshh181&repo=Nexa&theme=radical&border_color=A855F7&border_radius=12&show_owner=true" />
-</a>
-&nbsp;&nbsp;
-<a href="https://whack-a-mole-theta-one.vercel.app">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Joshh181&repo=Whack-A-Mole-2&theme=radical&border_color=A855F7&border_radius=12&show_owner=true" />
-</a>
-
-</div>
-
-<br/>
 
 <div align="center">
 
@@ -155,20 +143,9 @@ motto: "Turning ideas into real-world solutions"
 
 <div align="center">
 
-<!-- Stats Card + Streak side by side -->
-<a href="https://github.com/Joshh181">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Joshh181&show_icons=true&theme=radical&border_color=A855F7&border_radius=12&hide_border=false&count_private=true&include_all_commits=true" />
-</a>
-&nbsp;&nbsp;
+<!-- Streak Stats -->
 <a href="https://github.com/Joshh181">
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Joshh181&theme=radical&border=A855F7&ring=EC4899&fire=EC4899&currStreakLabel=A855F7&border_radius=12" />
-</a>
-
-<br/><br/>
-
-<!-- Top Languages -->
-<a href="https://github.com/Joshh181">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshh181&layout=compact&theme=radical&border_color=A855F7&border_radius=12&langs_count=8" />
 </a>
 
 <br/><br/>
