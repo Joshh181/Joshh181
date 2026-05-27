@@ -5,7 +5,8 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://raw.githubusercontent.com/Joshh181/Profile/main/banner.png" alt="Joshua Lumactod" />
+<img width="100%" src="https://raw.githubusercontent.com/Joshh181/Profile/main/banner.svg" alt="Joshua Lumactod Banner" />
+
 
 <!-- ANIMATED TYPING -->
 <a href="https://git.io/typing-svg">
@@ -223,7 +224,5 @@ motto: "Turning ideas into real-world solutions"
 
 <br/>
 
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:A855F7,100:EC4899&height=120&section=footer" />
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ 
