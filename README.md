@@ -151,7 +151,7 @@ motto: "Turning ideas into real-world solutions"
 
 <!-- Streak Stats -->
 <a href="https://github.com/Joshh181">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Joshh181&theme=radical&border=A855F7&ring=EC4899&fire=EC4899&currStreakLabel=A855F7&border_radius=12" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Joshh181&background=0B0C10&border=8B5CF6&ring=EC4899&fire=D946EF&sideNums=FFFFFF&sideLabels=8B5CF6&dates=A7F3D0&currStreakNum=F59E0B&currStreakLabel=EC4899&border_radius=12" />
 </a>
 
 <br/><br/>
