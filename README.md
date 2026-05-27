@@ -64,7 +64,7 @@ motto: "Turning ideas into real-world solutions"
       </pre>
     </td>
     <td width="45%" valign="middle" align="center" border="0">
-      <img alt="Coding" width="380" src="https://media.giphy.com/media/tQHtASL5mC8cKPyfSU/giphy.gif" />
+      <img alt="Coding" width="380" src="coding.svg" />
     </td>
   </tr>
 </table>
