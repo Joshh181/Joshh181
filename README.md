@@ -150,9 +150,9 @@ motto: "Turning ideas into real-world solutions"
 
 <br/><br/>
 
-<!-- Activity Graph -->
+<!-- 3D Contribution Graph -->
 <a href="https://github.com/Joshh181">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Joshh181&custom_title=Joshua's%20Contribution%20Graph&bg_color=141321&color=A855F7&line=EC4899&point=FFFFFF&area_color=6C63FF&area=true&hide_border=false&border_color=A855F7&border_radius=12" />
+  <img width="100%" src="https://raw.githubusercontent.com/Joshh181/Profile/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Isometric Contribution Graph" />
 </a>
 
 </div>
