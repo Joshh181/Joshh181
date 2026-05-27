@@ -41,8 +41,7 @@
 <table border="0" width="100%">
   <tr border="0">
     <td width="55%" valign="top" border="0">
-
-```yaml
+      <pre lang="yaml">
 name: Joshua Lumactod
 location: Pangasinan, Philippines 🇵🇭
 education: BS Information Technology (2024 - Present)
@@ -62,8 +61,7 @@ interests:
 
 hobbies: ["🎮 Gaming", "🍔 Foodie", "🔭 Tech Explorer"]
 motto: "Turning ideas into real-world solutions"
-```
-
+      </pre>
     </td>
     <td width="45%" valign="middle" align="center" border="0">
       <img alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
