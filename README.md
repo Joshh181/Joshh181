@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://raw.githubusercontent.com/Joshh181/Profile/main/banner.svg" alt="Joshua Lumactod Banner" />
+<img width="100%" src="banner.svg" alt="Joshua Lumactod Banner" />
 
 
 <!-- ANIMATED TYPING -->
@@ -153,7 +153,7 @@ motto: "Turning ideas into real-world solutions"
 
 <!-- 3D Contribution Graph -->
 <a href="https://github.com/Joshh181">
-  <img width="100%" src="https://raw.githubusercontent.com/Joshh181/Profile/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Isometric Contribution Graph" />
+  <img width="100%" src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Isometric Contribution Graph" />
 </a>
 
 </div>
@@ -215,9 +215,9 @@ motto: "Turning ideas into real-world solutions"
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joshh181/Profile/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joshh181/Profile/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Joshh181/Profile/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joshh181/Joshh181/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joshh181/Joshh181/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Joshh181/Joshh181/output/github-snake-dark.svg" />
 </picture>
 
 </div>
