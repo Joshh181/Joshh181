@@ -153,7 +153,7 @@ motto: "Turning ideas into real-world solutions"
 
 <!-- 3D Contribution Graph -->
 <a href="https://github.com/Joshh181">
-  <img width="100%" src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Isometric Contribution Graph" />
+  <img width="65%" src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Isometric Contribution Graph" />
 </a>
 
 </div>
