@@ -9,7 +9,7 @@
 
 <!-- ANIMATED TYPING -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Joshua!;%F0%9F%92%BB+Building+cool+things+with+code;%F0%9F%8E%A8+Designing+beautiful+experiences;%F0%9F%9A%80+Always+learning%2C+always+growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=600&height=40&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Joshua!;%F0%9F%92%BB+Building+cool+things+with+code;%F0%9F%8E%A8+Designing+beautiful+experiences;%F0%9F%9A%80+Always+learning%2C+always+growing" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -190,15 +190,9 @@ motto: "Turning ideas into real-world solutions"
 
 <div align="center">
 
-<!-- Replace YOUR_VERCEL_URL with your spotify-github-profile deployment -->
-<!-- Setup guide: https://github.com/kittinan/spotify-github-profile -->
-<a href="https://spotify-github-profile.kittinan.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true">
-  <img src="https://spotify-github-profile.kittinan.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=141321&interchange=true&bar_color=A855F7&bar_color_cover=true" alt="Spotify Now Playing" />
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ykldcoc6wux45zevb2yhlsgbqi&redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ykldcoc6wux45zevb2yhlsgbqi&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=false" alt="Spotify Now Playing" />
 </a>
-
-> 🎵 _Connect your Spotify to show what you're listening to!_
->
-> **Setup:** Visit [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) and replace `YOUR_SPOTIFY_ID` above with your actual Spotify user ID.
 
 </div>
 
@@ -237,19 +231,6 @@ motto: "Turning ideas into real-world solutions"
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                              TROPHY                                       -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Joshh181&theme=radical&no-frame=true&no-bg=false&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
-</a>
-
-</div>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                           CONTRIBUTION SNAKE                              -->
@@ -270,9 +251,4 @@ motto: "Turning ideas into real-world solutions"
 <!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:A855F7,100:EC4899&height=120&section=footer" />
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<div align="center">
-  <b>⭐ If you find my work interesting, consider giving a star! ⭐</b>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Made%20with-❤️-EC4899?style=for-the-badge&labelColor=1a1b27" />
-</div>
+<!-- ═══════════════════════════════════════════════════════════════════════════ 
