@@ -47,6 +47,7 @@ location: Pangasinan, Philippines 🇵🇭
 education: BS Information Technology (2024 - Present)
 role: Aspiring Developer & Student
 
+
 currently_learning:
   - Flutter & Mobile Development
   - Backend Systems with PHP
